@@ -1,0 +1,21 @@
+{
+  "name": "cardano-global-memory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.17.9",
+    "@types/node": "^22.5.5",
+    "cbor": "^9.0.2",
+    "dotenv": "^16.4.5",
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21",
+    "lucid-cardano": "^0.10.10",
+    "uuid": "^10.0.0"
+  }
+}

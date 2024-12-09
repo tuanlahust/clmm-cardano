@@ -1,0 +1,7 @@
+accounts/
+build/
+node_modules/
+.env
+package-lock.json
+aiken.lock
+deno.lock

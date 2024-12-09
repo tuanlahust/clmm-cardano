@@ -1,1 +1,1 @@
-# clmm-cardano
+# cardano-global-memory
